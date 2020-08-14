@@ -7,17 +7,17 @@ h1 {
     text-align: center;
 }
 #box_chicken, #box_beef, #box_sushi{
-    border:1px solid black/*#7a7d7f*/;
+    border:1px solid #7a7d7f;
     margin: 10px;
 }
 #box_chicken{
-    background-color: #A9A9A9/*#7a7d7f*/;
+    background-color: /*#A9A9A9*/#7a7d7f;
 }
 #box_beef{
-    background-color: #A9A9A9;
+    background-color: #7a7d7f;
 }
 #box_sushi{
-    background-color: #A9A9A9;
+    background-color: #7a7d7f;
 }
 #chicken_title, #beef_title, #sushi_title{
     border-left:1px solid black;
@@ -30,17 +30,17 @@ h1 {
 #chicken_title{
     color:black;
     font-weight: bold;
-    background-color: #F08080/*#d296ad*/;
+    background-color: /*#F08080*/#d296ad;
 }
 #beef_title{
     color:white;
     font-weight: bold;
-    background-color: #B22222/*#CD5C5C/*#d02425*/;
+    background-color: /*#B22222/*#CD5C5C*/#d02425;
 }
 #sushi_title{
     color:black;
     font-weight: bold;
-    background-color: #F5DEB3/*#d4d355*/;
+    background-color: /*#F5DEB3*/#d4d355;
 }
 .section_content {
     padding: 30px 15px 10px 15px;
